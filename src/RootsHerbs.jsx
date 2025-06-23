@@ -1,6 +1,6 @@
 import React from "react";
 import Button from './Button';
-import { Card, CardContent } from "./components/ui/card";
+import Card from './Card';
 import { Leaf, ShoppingCart, Phone } from "lucide-react";
 
 export default function RootsHerbs() {

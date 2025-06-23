@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "./components/ui/button";
+import Button from './Button';
 import { Card, CardContent } from "./components/ui/card";
 import { Leaf, ShoppingCart, Phone } from "lucide-react";
 
